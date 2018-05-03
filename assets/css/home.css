@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One|Signika');
+
+#name {
+    font-size: 56px;
+    font-family: 'signika';
+
+    margin-bottom: 0;
+}
+#bio {
+    font-size: 24px;
+    font-family: 'signika';
+
+    margin-top: 0;
+}
